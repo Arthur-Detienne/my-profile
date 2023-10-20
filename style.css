@@ -1,0 +1,30 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #F5F5EE;}
+
+h1 {
+	font-size: 40px;}
+
+h2 {
+	color: #424240;
+	line-height: 30px;}
+
+
+a {
+  color: #FF9180;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  font-weight: 300;
+  line-height: 30px;}
+
+a:hover {
+  color: #6B3D36;
+  text-decoration: none;}
+
+p {
+	color: black;
+	font-weight: 300;}
+
+img {
+	width: 10%;
+	height: 10%;}
